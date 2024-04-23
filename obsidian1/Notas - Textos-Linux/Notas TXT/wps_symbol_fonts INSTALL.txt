@@ -1,0 +1,5 @@
+Abrir Terminal en esta carpeta o, con (l) ver carpetas y entrar a ellas con (cd)
+
+ejecutramos:
+cd /media/usuario/esta_carpera/
+unzip wps_symbol_fonts.zip -d ~/.fonts

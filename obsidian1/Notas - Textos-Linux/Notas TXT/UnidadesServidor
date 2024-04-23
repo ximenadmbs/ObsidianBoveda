@@ -1,0 +1,9 @@
+smb://192.168.100.22/data-500gb/
+smb://192.168.100.22/adata1t/
+smb://192.168.100.22/games/
+smb://192.168.100.22/xeonhome/
+smb://192.168.100.22/wd4t-com/
+
+
+sudo service smbd restart
+xenon  =  14789

@@ -83,7 +83,7 @@ mindmap-plugin: basic
     - `#521B0F  cafe
     - `#7FB32A  verde olivo
 - Tamaño de la ventana
-    - 110 - 40
+    - 120 - 35
 - .bashrc
     - personalizar alias: alias lh='ls -lh'
 - fish

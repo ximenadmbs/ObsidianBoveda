@@ -1,0 +1,4 @@
+**ImageMagick** es un conjunto de utilidades de [código abierto](https://es.wikipedia.org/wiki/C%C3%B3digo_abierto "Código abierto")[1](https://es.wikipedia.org/wiki/ImageMagick#cite_note-1)​ para mostrar, manipular y convertir imágenes, capaz de leer y escribir más de 200 formatos.[2](https://es.wikipedia.org/wiki/ImageMagick#cite_note-:0-2)​ ImageMagick es publicado bajo la [Licencia Apache](https://es.wikipedia.org/wiki/Licencia_Apache "Licencia Apache").
+
+* Dependencia usara en barios programas de manipulador de imagenes, esta fea la aplicaron pero es necesaria **no vallas a desistalar por ninguna razón**, ya que por alguna razón tiende a romper los programas de edición de imágenes.
+	* [[README Temas Terminal]]
